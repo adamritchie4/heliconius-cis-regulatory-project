@@ -17,8 +17,6 @@ This pipeline peforms a large scale annotation and characterisation of cis-regul
 
 Each stage of the main cis regulatory pipeline is modular and controlled via binary flags (0 = off / 1 = on)
 
----
-
 ## Pipeline structure
 
 ### 1. Data preprocessing and quality control
@@ -68,8 +66,6 @@ Quantifies changes in regulatory activity across spatiotemporal conditions
 ---
 
 ## Regulatory sequence prediction pipeline
-
----
 
 ## Pipeline structure
 
