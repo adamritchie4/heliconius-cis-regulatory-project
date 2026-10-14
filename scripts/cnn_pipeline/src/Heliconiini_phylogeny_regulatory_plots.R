@@ -1,9 +1,6 @@
-
-suppressPackageStartupMessages({
-  library(tidyverse)
-  library(patchwork)
-  library(ape)
-})
+library(tidyverse)
+library(patchwork)
+library(ape)
 
 tree_file <- "MCMCtree.Priors5.Run1-10.Median.Figtree.nex"
 cnee_file <- "CNEE_enhancer_overlap_summary.tsv"
