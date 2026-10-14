@@ -1,14 +1,5 @@
 #!/bin/bash
 
-#SBATCH -J cPipe
-#SBATCH --account=BISC020662
-
-#SBATCH --nodes=1
-#SBATCH --cpus-per-task=5
-#SBATCH --mem=50G
-#SBATCH --time=4-00:00:00
-#SBATCH --array=0-2
-
 #### key paths ####
 
 path="/user/work/wd24922/Project/Practice"
